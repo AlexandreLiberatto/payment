@@ -1,10 +1,6 @@
 
 ---
 
-## **Microsserviço Notification**
-
----
-
 # Microsserviço: Notification  
 Parte do sistema **CompreFácil**
 
