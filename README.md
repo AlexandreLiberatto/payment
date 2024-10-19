@@ -22,8 +22,8 @@ Este serviço consome mensagens da fila **RabbitMQ** publicadas pelo microsservi
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/AlexandreLiberatto/PagueFacil-Notification.git
-cd PagueFacil-Notification
+git clone https://github.com/AlexandreLiberatto/payment
+cd payment
 ```
 
 ### 2. Configurar as variáveis de ambiente
